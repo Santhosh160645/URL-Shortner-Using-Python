@@ -1,0 +1,1 @@
+**URL Shortener  — Built a URL shortening application in Python with SQLite for persistent storage. Implemented unique short code generation, URL validation, database-driven URL mapping, and click tracking, ensuring efficient URL retrieval and management through a modular backend design.
